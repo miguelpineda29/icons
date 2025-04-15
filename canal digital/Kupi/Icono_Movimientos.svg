@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Icono_Movimientos" transform="translate(-242.868 -237)">
+    <g id="Grupo_14362" data-name="Grupo 14362" transform="translate(243.342 237)">
+      <g id="Rectángulo_8290" data-name="Rectángulo 8290" transform="translate(-0.474)" fill="#fff" stroke="#0152ff" stroke-width="2">
+        <rect width="28" height="28" rx="8" stroke="none"/>
+        <rect x="1" y="1" width="26" height="26" rx="7" fill="none"/>
+      </g>
+    </g>
+    <path id="next" d="M9.851,3.31,6.674.133a.454.454,0,1,0-.642.642l2.4,2.4L-2.88,3.261a.454.454,0,0,0-.454.454.454.454,0,0,0,.454.454L8.434,4.084l-2.4,2.4a.454.454,0,1,0,.642.642L9.851,3.951a.454.454,0,0,0,0-.642Z" transform="translate(256.043 242.87)" fill="#0152ff" stroke="#0152ff" stroke-width="1"/>
+    <path id="next-2" data-name="next" d="M9.851,3.31,6.674.133a.454.454,0,1,0-.642.642l2.4,2.4L-2.88,3.261a.454.454,0,0,0-.454.454.454.454,0,0,0,.454.454L8.434,4.084l-2.4,2.4a.454.454,0,1,0,.642.642L9.851,3.951a.454.454,0,0,0,0-.642Z" transform="translate(257.693 259.13) rotate(180)" fill="#0152ff" stroke="#0152ff" stroke-width="1"/>
+  </g>
+</svg>

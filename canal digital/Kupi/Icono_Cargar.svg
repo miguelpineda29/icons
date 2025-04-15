@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Icono_Cargar" transform="translate(0.474)">
+    <g id="Rectángulo_8290" data-name="Rectángulo 8290" transform="translate(-0.474)" fill="#fff" stroke="#0152ff" stroke-width="2">
+      <rect width="28" height="28" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="26" height="26" rx="7" fill="none"/>
+    </g>
+    <path id="next" d="M13.694,5.493,9.278,9.909a.631.631,0,1,1-.892-.892l3.339-3.339H.631a.631.631,0,0,1,0-1.262H11.725L8.386,1.077A.631.631,0,1,1,9.278.185L13.694,4.6a.631.631,0,0,1,0,.892Z" transform="translate(8.64 20.837) rotate(-90)" fill="#0152ff" stroke="#0152ff" stroke-width="1"/>
+  </g>
+</svg>
